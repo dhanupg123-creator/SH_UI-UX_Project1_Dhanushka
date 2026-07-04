@@ -17,6 +17,3 @@ A responsive café landing page designed in Figma as part of my UI/UX Internship
 
 ## Tools Used
 - Figma
-
-## Project Preview
-(Add screenshots here)
